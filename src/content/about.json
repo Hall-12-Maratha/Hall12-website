@@ -29,9 +29,9 @@
         { "name": "Dr. Chaitanya Kumar Rao", "role": "Warden", "phone": "+91-9490104441", "email": "chaitanya@iitk.ac.in", "imageUrl": "/people/chaitanya.png", "aiHint": "professional portrait man" },
         { "name": "Dr. Arnab Ghosh", "role": "Warden", "phone": "+91-9163518428", "email": "arnab@iitk.ac.in", "imageUrl": "/people/arnab.png", "aiHint": "professional portrait man" },      
       { "name": "MR. Ashish Tiwari", "role": "Hall Manager", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" },
-      { "name": "Ramesh", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" },
-      { "name": "Dinesh", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" },
-      { "name": "Girish", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" }
+      { "name": "MR. Ramesh", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" },
+      { "name": "MR. Dinesh", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" },
+      { "name": "MR. Girish", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" }
     ]
   },
   "hec": {
@@ -40,7 +40,7 @@
       { "name": "Rohit Yadav", "role": "President", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "student portrait man", "instagram":"link","phone":"9660942655", "email":"rohitya23@iitk.ac.in" },
       { "name": "Aryan Raj", "role": "Mess Secy", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "student portrait woman", "instagram":"link","phone":"7808051615", "email":"aryanraj23@iitk.ac.in" },
       { "name": "Kulshreshth Chikara", "role": "Mess Secy", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "student portrait man", "instagram":"link","phone":"9810216603", "email":"kulshresth23@iitk.ac.in" },
-      { "name": "Hanny Sheoron", "role": "Maintenance Secretary", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "student portrait woman", "instagram":"link","phone":"9560732100", "email":"hanny23@iitk.ac.in" },
+      { "name": "Hanny Sheoran", "role": "Maintenance Secretary", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "student portrait woman", "instagram":"link","phone":"9560732100", "email":"hanny23@iitk.ac.in" },
       { "name": "Parv Mehta", "role": "Maintenance Secretary", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "student portrait man", "instagram":"link","phone":"9871940500", "email":"parvmehta23@iitk.ac.in" },
       { "name": "Daksh Agrawal", "role": "Cultuaral secy", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "student portrait woman", "instagram":"link","phone":"7678555374", "email":"daksha23@iitk.ac.in" },
       { "name": "Navdeep Singh", "role": "Sports Secretary", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "student portrait man", "instagram":"link","phone":"7849877605", "email":"navdeeps23@iitk.ac.in" },

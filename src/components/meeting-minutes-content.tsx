@@ -18,7 +18,7 @@ export function MeetingMinutesContent() {
             alt={hero.image.alt}
             fill
             objectFit="cover"
-            className="brightness-[0.5]"
+            className="brightness-[0.5] object-center blur-md"
             priority
             data-ai-hint={hero.image.aiHint}
           />

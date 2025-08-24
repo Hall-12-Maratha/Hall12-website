@@ -3,15 +3,40 @@
     "title": "Meeting Minutes",
     "subtitle": "Official records of the Hall Executive Committee meetings.",
     "image": {
-      "src": "/meeting.png",
+      "src": "https://placehold.co/1920x800.png",
       "alt": "A formal meeting room with a long table",
       "aiHint": "meeting room conference"
     }
   },
   "minutes": [
     {
-      "title": "Comming soon",
-      "date": "----",
+      "title": "HEC Meeting - June 2024",
+      "date": "June 15, 2024",
+      "link": "#"
+    },
+    {
+      "title": "HEC Meeting - May 2024",
+      "date": "May 20, 2024",
+      "link": "#"
+    },
+    {
+      "title": "Budget Approval Meeting - April 2024",
+      "date": "April 10, 2024",
+      "link": "#"
+    },
+    {
+      "title": "HEC Meeting - March 2024",
+      "date": "March 18, 2024",
+      "link": "#"
+    },
+    {
+      "title": "Event Planning Meeting - February 2024",
+      "date": "February 22, 2024",
+      "link": "#"
+    },
+    {
+      "title": "HEC Meeting - January 2024",
+      "date": "January 15, 2024",
       "link": "#"
     }
   ]

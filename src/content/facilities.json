@@ -16,7 +16,7 @@
         { "name": "Sports Areas", "href": "#sports", "imageUrl": "/Facilities/sports2.jpg", "aiHint": "indoor sports hall" },
         { "name": "Reading Room", "href": "#reading-room", "imageUrl": "/Facilities/reading room.jpg", "aiHint": "library reading area" },
         { "name": "Guest Room", "href": "#guest-room", "imageUrl": "/Facilities/room3.jpg", "aiHint": "hotel guest room" },
-        { "name": "Other Facilities", "href": "#common-room", "imageUrl": "/Facilities/DanceRoom.jpg", "aiHint": "lounge common area" }
+        { "name": "Common Room", "href": "#common-room", "imageUrl": "/Facilities/DanceRoom.jpg", "aiHint": "lounge common area" }
     ],
     "details": [
         {
@@ -38,7 +38,7 @@
             "images": [
                 { "src": "/Facilities/room3.jpg", "alt": "Single room", "aiHint": "hostel single room" },
                 { "src": "/Facilities/room_3.jpg", "alt": "Double room", "aiHint": "hostel double room" },
-                { "src": "/Facilities/room.png", "alt": "Triple room", "aiHint": "hostel triple room" }
+                { "src": "/Facilities/room3.jpg", "alt": "Triple room", "aiHint": "hostel triple room" }
             ]
         },
         {
@@ -47,7 +47,7 @@
             "description": "Our spacious and hygienic mess serves nutritious and delicious meals three times a day. The menu is regularly updated to offer variety and cater to different tastes.",
             "images": [
                 { "src": "/Facilities/MessCounter.jpg", "alt": "Dining Hall", "aiHint": "mess dining hall" },
-                { "src": "/Facilities/mess.png", "alt": "Food Counter", "aiHint": "food service counter" },
+                { "src": "/Facilities/juice shop.jpg", "alt": "Food Counter", "aiHint": "food service counter" },
                 { "src": "/Facilities/MessGate.jpg", "alt": "Seating Area", "aiHint": "canteen seating" }
             ]
         },
@@ -67,7 +67,8 @@
             "description": "A silent, air-conditioned space perfect for focused study. The reading room is open 24/7 and provides a conducive environment for academic pursuits.",
             "images": [
                 { "src": "/Facilities/ReadingRoomStudents.jpg", "alt": "Reading Area", "aiHint": "library study area" },
-                { "src": "/Facilities/reading room.jpg", "alt": "Bookshelves", "aiHint": "library bookshelves" }
+                { "src": "/Facilities/reading room.jpg", "alt": "Bookshelves", "aiHint": "library bookshelves" },
+                { "src": "https://placehold.co/400x300.png", "alt": "Quiet Corner", "aiHint": "quiet study corner" }
             ]
         },
         {
@@ -82,12 +83,12 @@
         },
         {
             "id": "common-room",
-            "name": "Other Facilities",
-            "description": "There are dedicated dance rooms, cycle stands equipped with cameras, and multipurpose common rooms. These facilities serve different needs, offering both recreational and functional spaces. ",
+            "name": "Common Rooms",
+            "description": "Our versatile common room is equipped with a large screen for movie nights and events, along with ample seating. We also have dedicated study rooms for group discussions.",
             "images": [
                 { "src": "/Facilities/DanceRoom.jpg", "alt": "Common Room Seating", "aiHint": "lounge seating area" },
                 { "src": "/Facilities/conference room.jpg", "alt": "TV Area", "aiHint": "large screen tv" },
-                { "src": "/Facilities/CycleStand.jpg", "alt": "TV Area", "aiHint": "large screen tv" }
+                { "src": "/Facilities/f3CommonRoom.jpg", "alt": "Study Group", "aiHint": "students study group" }
             ]
         }
     ]

@@ -2,73 +2,29 @@
 {
   "title": "Frequently Asked Questions",
   "faqs": [
-  {
-    "question": "What is Hall 12 at IIT Kanpur?",
-    "answer": "Hall 12 is one of the student hostels (halls of residence) at IIT Kanpur, primarily housing undergraduate and postgraduate students."
-  },
-  {
-    "question": "Who can stay in Hall 12?",
-    "answer": "Typically, it accommodates undergraduate (UG) and postgraduate (PG) students allocated through the institute’s hostel allotment system."
-  },
-  {
-    "question": "How many students can Hall 12 accommodate?",
-    "answer": "The hall is designed to house nearly 750 students across multiple wings and floors, with single, double, and triple occupancy rooms."
-  },
-  {
-    "question": "Is Hall 12 co-ed?",
-    "answer": "No, Hall 12 is a male hostel (as per current IITK hostel allocation)."
-  },
-  {
-    "question": "What are the room types available in Hall 12?",
-    "answer": "Hall 12 offers single, double, and triple occupancy rooms, depending on year of study and availability."
-  },
-  {
-    "question": "Does Hall 12 have Wi-Fi and LAN internet?",
-    "answer": "Yes, each room is equipped with LAN ports, and Wi-Fi is available in common areas."
-  },
-  {
-    "question": "Is there a mess facility in Hall 12?",
-    "answer": "Yes, Hall 12 has its own mess, providing breakfast, lunch, evening snacks, and dinner."
-  },
-  {
-    "question": "Are there laundry facilities in Hall 12?",
-    "answer": "Yes, washing machines and laundry areas are available for student use."
-  },
-  {
-    "question": "Does Hall 12 have sports facilities?",
-    "answer": "Yes, it has badminton courts, a basketball court, table tennis, carrom, chess, and access to institute-level sports grounds."
-  },
-  {
-    "question": "Are there study or common rooms?",
-    "answer": "Yes, there are common rooms for studying, watching TV, and multipurpose activities."
-  },
-  {
-    "question": "Is there a cycle stand in Hall 12?",
-    "answer": "Yes, there are designated cycle stands equipped with CCTV cameras for security."
-  },
-  {
-    "question": "Does Hall 12 have a dance or music room?",
-    "answer": "Yes, the hall provides spaces like dance rooms and multipurpose common rooms for cultural and recreational activities."
-  },
-  {
-    "question": "What security measures are in place in Hall 12?",
-    "answer": "CCTV cameras are installed at entrances, cycle stands, and common areas. Guards are also present for security."
-  },
-  {
-    "question": "Are visitors allowed in Hall 12?",
-    "answer": "Yes, but only during designated hours, and they must register at the entrance."
-  },
-  {
-    "question": "What is the cleaning and maintenance system in Hall 12?",
-    "answer": "Hostel staff clean the corridors, bathrooms, and common areas daily. Students maintain their own rooms."
-  },
-  {
-    "question": "What kind of cultural activities happen in Hall 12?",
-    "answer": "The hall actively participates in inter-hall events like Galaxy (cultural fest), Inferno (sports), and Takneek (technical fest)."
-  },
-  {
-    "question": "Does Hall 12 have its own council or student body?",
-    "answer": "Yes, each hall has a Hall Executive Committee (HEC) with secretaries handling cultural, sports, technical, and mess activities."
-  } ]
-
+    {
+      "question": "How do I apply for hostel accommodation?",
+      "answer": "All registered students of IIT Kanpur are automatically allotted a room. You will be informed about your room details during the registration process."
+    },
+    {
+      "question": "What are the mess timings?",
+      "answer": "Breakfast: 7:30 AM - 9:30 AM, Lunch: 12:30 PM - 2:30 PM,  Dinner: 7:30 PM - 9:30 PM. Timings may vary on weekends and holidays."
+    },
+    {
+      "question": "How can I book a guest room for my parents?",
+      "answer": "You can book a guest room through the guest room booking page on this website. Please refer to the 'Guest Room' section under 'Rules & Info' for the detailed procedure and availability."
+    },
+    {
+      "question": "Is there a curfew in the hostel?",
+      "answer": "There is no strict curfew, but residents are expected to maintain decorum and not cause disturbance to others, especially late at night. The main gates may have entry restrictions after a certain time, which will be notified by the institute."
+    },
+    {
+        "question": "What sports facilities are available?",
+        "answer": "Hall XII has facilities for table tennis, badminton, and a fully-equipped gymnasium. Residents can also access the central sports facilities of the institute."
+    },
+    {
+        "question": "How do I report a maintenance issue in my room?",
+        "answer": "You can report any maintenance issues through the complaint register available at the hall office or via the online MEP portal. The maintenance team will address it as soon as possible."
+    }
+  ]
 }

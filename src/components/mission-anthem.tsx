@@ -79,7 +79,7 @@ export function MissionAnthem() {
                 </Button>
                 <audio 
                   ref={audioRef} 
-                  src="/audio/anthem.mp4" 
+                  src="/audio/anthem.mp3" 
                   onPlay={() => setIsPlaying(true)}
                   onPause={() => setIsPlaying(false)}
                   onEnded={() => setIsPlaying(false)}

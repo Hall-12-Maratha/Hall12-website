@@ -1,0 +1,104 @@
+
+{
+  "hero": {
+    "title": "Contact Us",
+    "subtitle": "We’re here to help you with queries, feedback, and assistance.",
+    "image": {
+      "src": "/contact.jpg",
+      "alt": "Warmly lit hostel building at dusk",
+      "aiHint": "hostel building night"
+    }
+  },
+  "contactCards": [
+    {
+      "icon": "Building",
+      "title": "Hostel Office",
+      "details": [
+        { "label": "Dr. P.C. Mondal", "value": "Warden-in-Charge" },
+        { "label": "Phone", "value": "+91-8697389517", "href": "tel:+918697389517", "className": "text-primary hover:text-accent" },
+        { "label": "Email", "value": "pcmondal@iitk.ac.in", "href": "mailto:pcmondal@iitk.ac.in", "className": "text-accent hover:text-primary" },
+      
+        { "label": "Dr. Chaitanya Kumar Rao", "value": "Warden" },
+        { "label": "Phone", "value": "+91-9490104441", "href": "tel:+919490104441", "className": "text-primary hover:text-accent" },
+        { "label": "Email", "value": "chaitanya@iitk.ac.in", "href": "mailto:chaitanya@iitk.ac.in", "className": "text-accent hover:text-primary" },
+      
+        { "label": "Dr. Arnab Ghosh", "value": "Warden" },
+        { "label": "Phone", "value": "+91-9163518428", "href": "tel:+919163518428", "className": "text-primary hover:text-accent" },
+        { "label": "Email", "value": "arnab@iitk.ac.in", "href": "mailto:arnab@iitk.ac.in", "className": "text-accent hover:text-primary" }
+      ]
+    },
+    {
+      "icon": "Users",
+      "title": "Hall Executive Committee",
+      "details": [
+        { "label": "Rohit Yadav", "value": "President" },
+        { "label": "Phone", "value": "+91-9660942655", "href": "tel:+919660942655", "className": "text-primary hover:text-accent" },
+        { "label": "Email", "value": "rohitya@.iitk.ac.in", "href": "mailto:warden@hall12.iitk.ac.in", "className": "text-accent hover:text-primary" },
+        { "label": "Hanny Sheoran", "value": "Maintenance secy" },
+        { "label": "Phone", "value": "+91-9560732100", "href": "tel:+919560732100", "className": "text-primary hover:text-accent" },
+        { "label": "Email", "value": "hanny23@iitk.ac.in", "href": "mailto:hanny23@iitk.ac.in", "className": "text-accent hover:text-primary" },
+      
+        { "label": "Parv Mehta", "value": "Maintenance secy" },
+        { "label": "Phone", "value": "+91-9871940500", "href": "tel:+919871940500", "className": "text-primary hover:text-accent" },
+        { "label": "Email", "value": "parvmehta23@iitk.ac.in", "href": "mailto:parvmehta23@iitk.ac.in", "className": "text-accent hover:text-primary" }
+      
+      ]
+    },
+    {
+      "icon": "ShieldAlert",
+      "title": "Emergency Contacts",
+      "details": [
+        { "label": "Pradeep Kumar (Lift Operator)", "value": "+91-981034960", "className": "text-white" },
+        { "label": "Satendra (Lift Operator)", "value": "+91-9910670609", "className": "text-white" },
+        { "label": "Amit Gupta (Lift Operator)", "value": "+91-9912604012", "className": "text-white" },
+        { "label": "Santosh (Lift Operator)", "value": "+91-6392024517", "className": "text-white" },
+        { "label": "Sub-station No-10 (Near Faculty Apartment)", "value": "4657", "className": "text-white" },
+        { "label": "Faculty Building (Lift Room)", "value": "4648", "className": "text-white" },
+        { "label": "Hall-12 (Lift Room)", "value": "4834", "className": "text-white" },
+        { "label": "Security Control Room", "value": "7999", "className": "text-white" },
+        { "label": "In-charge Lift - 7124", "value": "EE (E)-7715", "className": "text-white" },      
+        { "label": "Institute Emergency Services", "value": "Visit Page", "href": "https://www.iitk.ac.in/new/emergency-services", "className": "text-accent hover:text-primary" }
+      ]
+    }
+  ],
+  "antiRaggingCommittee": {
+    "title": "Anti-Ragging Committee",
+    "contacts": [
+      { "role": "Warden-in-Charge", "name": "Dr. P.C. Mondal", "phone": "+91-8697389517", "email": "pcmondal@iitk.ac.in" },
+      { "role": "Warden", "name": "Dr. Chaitanya Kumar Rao", "phone": "+91-9490104441", "email": "chaitanya@iitk.ac.in" },
+      { "role": "Warden", "name": "Dr. Arnab Ghosh", "phone": "+91-9163518428", "email": "arnab@iitk.ac.in" },
+      { "role": "President", "name": "Rohit Yadav", "phone": "+91-9660942655", "email": "rohitya23@iitk.ac.in" },
+      { "role": "Mess secy", "name": "Aryan raj", "phone": "+91-7808051615", "email": "aryanraj23@iitk.ac.in" },
+      { "role": "Mess secy", "name": "Kulshreshth Chikara", "phone": "+91-9810216603", "email": "kulshresth23@.iitk.ac.in" },
+      { "role": "Maintenance secy", "name": "Hanny Sheoran", "phone": "+91-9560732100", "email": "hanny23@.iitk.ac.in" },
+      { "role": "Maintenance secy", "name": "Parv Mehta", "phone": "+91-9871940500", "email": "parvmehta23@.iitk.ac.in" },
+      { "role": "ICS", "name": "Mohit Choudhary", "phone": "+91-7976057189", "email": "mohitc23@.iitk.ac.in" }
+    ]
+  },
+  "map": {
+    "title": "Find Your Way",
+    "description": "We are located within the scenic and sprawling campus of the Indian Institute of Technology, Kanpur.",
+    "address": [
+      "Hall of Residence XII",
+      "Indian Institute of Technology Kanpur",
+      "Kalyanpur, Kanpur",
+      "Uttar Pradesh - 208016"
+    ]
+  },
+  "rules": {
+    "title": "Rules & Conduct",
+    "list": [
+      "Maintain silence in academic and quiet zones.",
+      "Adhere to the mess timings and regulations.",
+      "Keep rooms and common areas clean and tidy.",
+      "Guests are allowed only with prior permission.",
+      "Ragging is strictly prohibited and a punishable offense.",
+      "Consumption of alcohol or any intoxicating substances is strictly forbidden.",
+      "Damage to hall property will result in strict disciplinary action and fines.",
+      "All residents must carry their identity cards at all times.",
+      "Use of high-wattage electrical appliances in rooms is not allowed without permission."
+    ],
+    "buttonText": "Read Full Guidelines",
+    "guidelinesUrl": "https://www.iitk.ac.in/hall12/pdf/GUIDELINES.pdf"
+  }
+}

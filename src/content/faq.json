@@ -1,0 +1,30 @@
+
+{
+  "title": "Frequently Asked Questions",
+  "faqs": [
+    {
+      "question": "How do I apply for hostel accommodation?",
+      "answer": "All registered students of IIT Kanpur are automatically allotted a room. You will be informed about your room details during the registration process."
+    },
+    {
+      "question": "What are the mess timings?",
+      "answer": "Breakfast: 7:30 AM - 9:30 AM, Lunch: 12:30 PM - 2:30 PM,  Dinner: 7:30 PM - 9:30 PM. Timings may vary on weekends and holidays."
+    },
+    {
+      "question": "How can I book a guest room for my parents?",
+      "answer": "You can book a guest room through the guest room booking page on this website. Please refer to the 'Guest Room' section under 'Rules & Info' for the detailed procedure and availability."
+    },
+    {
+      "question": "Is there a curfew in the hostel?",
+      "answer": "There is no strict curfew, but residents are expected to maintain decorum and not cause disturbance to others, especially late at night. The main gates may have entry restrictions after a certain time, which will be notified by the institute."
+    },
+    {
+        "question": "What sports facilities are available?",
+        "answer": "Hall XII has facilities for table tennis, badminton, and a fully-equipped gymnasium. Residents can also access the central sports facilities of the institute."
+    },
+    {
+        "question": "How do I report a maintenance issue in my room?",
+        "answer": "You can report any maintenance issues through the complaint register available at the hall office or via the online MEP portal. The maintenance team will address it as soon as possible."
+    }
+  ]
+}

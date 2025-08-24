@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "welcomeText": "आपका स्वागत है",
+    "heading": "हॉल",
+    "headingSpan": "१२",
+    "subheadline": "जय भवानी, जय शिवाजी",
+    "image": {
+      "src": "/maratha.png",
+      "alt": "Modern academic building at IIT Kanpur",
+      "aiHint": "modern university building"
+    },
+    "anthemVideo": {
+      "imageUrl": "https://placehold.co/240x135.png",
+      "alt": "Anthem Video",
+      "aiHint": "students singing",
+      "label": "Hall/GC Anthem"
+    }
+  },
+  "missionAnthem": {
+    "mission": {
+      "title": "Our Mission",
+      "content": "Hall XII, one of the best among IIT Kanpur’s male hostels, provides a nurturing environment with modern amenities and cultural essence. We aim to cultivate leadership, well-being, and academic excellence. With six functional blocks (A–F) housing over 600 students across 456 rooms, our focus remains on inclusivity, safety, and growth.” — adapted from IIT Kanpur Hall 12 information",
+      "link": {
+        "text": "Read More...",
+        "href": "/about"
+      }
+    },
+    "anthem": {
+      "title": "Our Anthem",
+      "lyrics": [
+        "वीर शिवा शमशीर मराठा, अनुपम नूतन संतानें।",
+        "रक्त उबलता सोच दहलती, विजय पताका लहराने।",
+        "हर एक दुश्मन लौटे बस आँखों में डर और हार लिए,",
+        "जब चले मराठा जंगें लड़ने हाथों में तलवार लिए!",
+        "जब चले मराठा जंगें लड़ने हाथों में तलवार लिए!"
+      ],
+      "legacyLink": {
+        "text": "Explore our Legacy",
+        "href": "/legacy"
+      }
+    }
+  },
+  "events": {
+    "title": "UpComing Events",
+    "items": [
+      {
+        "title": "Takneek 2025",
+        "imageUrl": "/Takneek/group_pic.jpg",
+        "aiHint": "college party students"
+      },
+      {
+        "title": "Freshers Inferno",
+        "imageUrl": "/inferno/celebration.webp",
+        "aiHint": "sports tournament college"
+      },
+      {
+        "title": "Volleyball League",
+        "imageUrl": "/inferno/volleyball.png",
+        "aiHint": "stage performance music"
+      }
+    ],
+    "buttonText": "Events Page"
+  },
+  "gallery": {
+    "title": "Our Moments",
+    "images": [
+      { "src": "/Takneek/group_pic.jpg", "alt": "Students collaborating", "aiHint": "students collaborating", "className": "col-span-2 row-span-1" },
+      { "src": "/inferno/trophy_pic.jpg", "alt": "Cultural festival", "aiHint": "holi festival", "className": "col-span-1 row-span-2" },
+      { "src": "/galaxy/galaxy dance battle.jpeg", "alt": "Hall common room", "aiHint": "common room", "className": "col-span-1 row-span-2" },
+      { "src": "/gemeral members/oat_pic.jpg", "alt": "Sports event", "aiHint": "college sports", "className": "col-span-2 row-span-1" },
+      { "src": "/gemeral members/oat_pic2.jpg", "alt": "Night view of hostel", "aiHint": "hostel night", "className": "col-span-1 row-span-1" },
+      { "src": "/Festivals/janmsahtami.jpg", "alt": "Group photo", "aiHint": "friends group photo", "className": "col-span-1 row-span-2" },
+      { "src": "/Festivals/independence day.jpg", "alt": "Academic workshop", "aiHint": "students workshop", "className": "col-span-2 row-span-1" },
+      { "src": "/Facilities/HallSunset.jpg", "alt": "Academic workshop", "aiHint": "students workshop", "className": "col-span-2 row-span-1" },
+      { "src": "/Facilities/flowers2.jpg", "alt": "Academic workshop", "aiHint": "students workshop", "className": "col-span-2 row-span-1" },
+      { "src": "/Facilities/flowers1.jpg", "alt": "Academic workshop", "aiHint": "students workshop", "className": "col-span-2 row-span-1" }
+    ]
+  }
+}

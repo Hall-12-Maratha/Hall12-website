@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "title": "NEWS AND EVENTS",
+    "image": {
+      "src": "/general members/oat_pic2.jpg",
+      "alt": "Abstract pattern background",
+      "aiHint": "abstract geometric pattern"
+    }
+  },
+  "filters": {
+    "placeholder": "Filter by Category",
+    "categories": ["Mess", "Fee", "Events", "Maintenance", "Others"]
+  },
+  "upcomingEvents": {
+    "title": "Upcoming Events",
+    "highlightEvent": {
+      "title": "Shiv Jayanti Celebration",
+      "date": "February 19, 2025",
+      "time": "6:00 PM onwards",
+      "venue": "Main Hall Lawn",
+      "description": "A grand celebration of Chhatrapati Shivaji Maharaj's birth anniversary with cultural performances, music, and a traditional feast.",
+      "imageUrl": "https://placehold.co/1200x600.png",
+      "aiHint": "indian festival stage"
+    },
+    "secondaryEvent": {
+      "title": "Tech Fest 'Innovate'",
+      "imageUrl": "https://placehold.co/600x600.png",
+      "aiHint": "robotics competition"
+    },
+    "otherEvents": [
+      { "title": "Takneek'25", "imageUrl": "/Takneek/group_pic.jpg", "aiHint": "cricket match students" },
+      { "title": "Freshers Inferno'25", "imageUrl": "/inferno/celebration.webp", "aiHint": "photography workshop" },
+      { "title": "GBM", "imageUrl": "/general members/hall_background_pic.jpg", "aiHint": "outdoor movie screen" }
+    ]
+  },
+  "notices": {
+    "title": "Notices",
+    "items": [
+      { "title": "Mess Menu for Next Week", "category": "Mess", "date": "2 days ago", "content": "The updated mess menu has been posted on the noticeboard and is available online..." },
+      { "title": "Scheduled Power Outage in C-Block", "category": "Maintenance", "date": "5 days ago", "content": "There will be a scheduled power outage for maintenance in C-Block on Friday from 2 PM to 4 PM..." },
+      { "title": "Last Date for Fee Payment", "category": "Fee", "date": "1 week ago", "content": "All residents are reminded that the last date for semester fee payment is approaching..." },
+      { "title": "Lost & Found: Wallet", "category": "Others", "date": "1 week ago", "content": "A wallet was found in the common room. Please contact the hall office to claim it..." }
+    ]
+  },
+  "pastEvents": {
+    "title": "Past Events",
+    "items": [
+      { "title": "Janmasthami 2025", "date": "August 16, 2025", "description": "A vibrant celebration with colors, music, and joy.", "imageUrl": "/Festivals/janmsahtami.jpg", "aiHint": "holi festival students" },
+      { "title": "Volleyball League 2025", "date": "August 15-16, 2025", "description": "A vibrant celebration with colors, music, and joy.", "imageUrl": "/Festivals/janmsahtami.jpg", "aiHint": "holi festival students" },
+      { "title": "Y-22 Farewell", "date": "8 August, 2025", "description": "Farewell to Y-22", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "college cultural event"}
+    ]
+  },
+  "calendar": {
+    "title": "Events Calendar"
+  }
+}

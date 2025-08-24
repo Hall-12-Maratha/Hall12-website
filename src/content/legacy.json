@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "title": "Our Legacy",
+    "subtitle": "Celebrating our achievements, traditions, and proud history.",
+    "image": {
+      "src": "https://placehold.co/1920x800.png",
+      "alt": "Students celebrating a victory with confetti",
+      "aiHint": "students celebrating victory"
+    }
+  },
+  "achievements": [
+    {
+      "category": "Takneek",
+      "description": "The inter-hall technical and entrepreneurial festival, where our residents consistently showcase their innovative prowess.",
+      "results": [
+        { "year": 2023, "position": "Overall Champions" },
+        { "year": 2022, "position": "Runners Up" },
+        { "year": 2021, "position": "Winner in Robotics" }
+      ],
+      "imageUrl": "https://placehold.co/800x600.png",
+      "aiHint": "students coding competition"
+    },
+    {
+      "category": "Galaxy",
+      "description": "The inter-hall cultural competition, where our talents in music, dance, and drama shine the brightest.",
+      "results": [
+        { "year": 2023, "position": "Best Dance Performance" },
+        { "year": 2022, "position": "Overall Champions" },
+        { "year": 2021, "position": "Winner in Vocals" }
+      ],
+      "imageUrl": "https://placehold.co/800x600.png",
+      "aiHint": "stage dance performance"
+    },
+    {
+  "category": "Inferno",
+  "description": "The inter-hall sports competition where our athletes compete with passion and determination across multiple sporting events.",
+  "results": [
+    { "year": 2023, "position": "Winners in Basketball" },
+    { "year": 2022, "position": "Overall Runners-Up" },
+    { "year": 2021, "position": "Winners in Athletics" }
+  ],
+  "imageUrl": "https://placehold.co/800x600.png",
+  "aiHint": "action shot of sports competition"
+},
+{
+  "category": "Freshers' Inferno",
+  "description": "A special edition of Inferno for first-year students, showcasing fresh talent and building team spirit through spirited sports contests.",
+  "results": [
+    { "year": 2023, "position": "Champions in Cricket" },
+    { "year": 2022, "position": "Overall Champions" },
+    { "year": 2021, "position": "Runners-Up in Football" }
+  ],
+  "imageUrl": "https://placehold.co/800x600.png",
+  "aiHint": "first year students playing sports"
+}
+  
+  ],
+  "gallery": {
+    "title": "Gallery",
+    "images": [
+      { "src": "https://placehold.co/600x400.png", "alt": "Victory moment 1", "aiHint": "students celebrating" },
+      { "src": "https://placehold.co/600x400.png", "alt": "Victory moment 2", "aiHint": "award ceremony" },
+      { "src": "https://placehold.co/600x400.png", "alt": "Cultural performance", "aiHint": "stage performance" },
+      { "src": "https://placehold.co/600x400.png", "alt": "Sports achievement", "aiHint": "trophy celebration" },
+      { "src": "https://placehold.co/600x400.png", "alt": "Group photo with trophy", "aiHint": "students with trophy" }
+    ]
+  },
+  "keyVictories": {
+      "title": "Key Victories",
+      "achievements": [
+        {
+          "title": "Inferno Champions 2023",
+          "category": "Sports",
+          "description": "Dominating the inter-hall sports festival with exceptional performances in multiple events.",
+          "imageUrl": "https://placehold.co/600x400.png",
+          "aiHint": "basketball game action",
+          "buttonText": "View Photos"
+        },
+        {
+          "title": "Riwayat Winners 2022",
+          "category": "Cultural",
+          "description": "Crowned champions of the traditional arts festival, showcasing our rich cultural heritage.",
+          "imageUrl": "https://placehold.co/600x400.png",
+          "aiHint": "indian folk dance",
+          "buttonText": "View Photos"
+        },
+        {
+          "title": "Takneek Onspot Winners 2024",
+          "category": "Literary",
+          "description": "Securing the top position in the inter-hall Takneek's Onspot event.",
+          "imageUrl": "https://placehold.co/600x400.png",
+          "aiHint": "students debate competition",
+          "buttonText": "View Photos"
+        }
+      ]
+  },
+  "alumniNetwork": {
+    "title": "Our Proud Alumni Network",
+    "alumni": [
+      { "name": "Rahul Sharma", "designation": "CEO, TechCorp", "imageUrl": "https://placehold.co/200x200.png", "aiHint": "ceo portrait man" },
+      { "name": "Ananya Verma", "designation": "Lead Scientist, Innovate Labs", "imageUrl": "https://placehold.co/200x200.png", "aiHint": "scientist portrait woman" },
+      { "name": "Vikram Singh", "designation": "Founder, StartUpX", "imageUrl": "https://placehold.co/200x200.png", "aiHint": "founder portrait man" },
+      { "name": "Priya Gupta", "designation": "Director, Global Finance", "imageUrl": "https://placehold.co/200x200.png", "aiHint": "director portrait woman" },
+      { "name": "Amit Kumar", "designation": "Senior Engineer, Google", "imageUrl": "https://placehold.co/200x200.png", "aiHint": "engineer portrait man" },
+      { "name": "Sneha Reddy", "designation": "Product Manager, Microsoft", "imageUrl": "https://placehold.co/200x200.png", "aiHint": "manager portrait woman" }
+    ]
+  }
+}

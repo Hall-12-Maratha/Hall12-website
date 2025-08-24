@@ -1,0 +1,95 @@
+
+{
+    "hero": {
+        "title": "FACILITIES",
+        "subtitle": "Hall XII offers a wide range of modern facilities to ensure a comfortable, convenient, and enriching living experience for all residents.",
+        "image": {
+            "src": "/Facilities/hero.jpg",
+            "alt": "Collage of hostel facilities",
+            "aiHint": "hostel facilities collage"
+        }
+    },
+    "grid": [
+        { "name": "HMP Portal", "href": "#hmp-portal", "imageUrl": "/Facilities/MEP1.jpg", "aiHint": "digital portal interface" },
+        { "name": "Rooms", "href": "#rooms", "imageUrl": "/Facilities/room3.jpg", "aiHint": "hostel room interior" },
+        { "name": "Mess", "href": "#mess", "imageUrl": "/mess.jpg", "aiHint": "dining hall interior" },
+        { "name": "Sports Areas", "href": "#sports", "imageUrl": "/Facilities/sports2.jpg", "aiHint": "indoor sports hall" },
+        { "name": "Reading Room", "href": "#reading-room", "imageUrl": "/Facilities/reading room.jpg", "aiHint": "library reading area" },
+        { "name": "Guest Room", "href": "#guest-room", "imageUrl": "/Facilities/room3.jpg", "aiHint": "hotel guest room" },
+        { "name": "Common Room", "href": "#common-room", "imageUrl": "/Facilities/DanceRoom.jpg", "aiHint": "lounge common area" }
+    ],
+    "details": [
+        {
+            "id": "hmp-portal",
+            "name": "HMP - Hall Management Portal",
+            "description": "The Hall Management Portal is a Next.js-based web application designed to manage the complete administrative operations of Hall 12. It's a role-based system that handles mess operations, student services, facility management, and administrative tasks, replacing traditional paper-based or fragmented digital systems.",
+            "images": [
+                { "src": "/Facilities/MEP2.jpg", "alt": "HMP Portal Screenshot", "aiHint": "dashboard user interface" },
+                { "src": "/Facilities/MEP1.jpg", "alt": "HMP Portal Menu", "aiHint": "online menu food" },
+                { "src": "/Facilities/MEP3.jpg", "alt": "HMP Portal Feedback", "aiHint": "feedback form" }
+            ],
+            "actionText": "View HMP Guidelines",
+            "href": "/mep-portal"
+        },
+        {
+            "id": "rooms",
+            "name": "Accommodation",
+            "description": "We offer single, double, and triple occupancy rooms, all well-ventilated and furnished with essential furniture. Each room is designed to provide a comfortable personal space for residents.",
+            "images": [
+                { "src": "/Facilities/room3.jpg", "alt": "Single room", "aiHint": "hostel single room" },
+                { "src": "/Facilities/room_3.jpg", "alt": "Double room", "aiHint": "hostel double room" },
+                { "src": "/Facilities/room3.jpg", "alt": "Triple room", "aiHint": "hostel triple room" }
+            ]
+        },
+        {
+            "id": "mess",
+            "name": "Mess & Dining",
+            "description": "Our spacious and hygienic mess serves nutritious and delicious meals three times a day. The menu is regularly updated to offer variety and cater to different tastes.",
+            "images": [
+                { "src": "/Facilities/MessCounter.jpg", "alt": "Dining Hall", "aiHint": "mess dining hall" },
+                { "src": "/Facilities/juice shop.jpg", "alt": "Food Counter", "aiHint": "food service counter" },
+                { "src": "/Facilities/MessGate.jpg", "alt": "Seating Area", "aiHint": "canteen seating" }
+            ]
+        },
+        {
+            "id": "sports",
+            "name": "Sports & Recreation",
+            "description": "Stay active with our excellent sports facilities, including table tennis, badminton courts, and a fully-equipped gymnasium. We encourage a healthy and active lifestyle.",
+            "images": [
+                { "src": "/Facilities/sports2.jpg", "alt": "Gym", "aiHint": "gym fitness center" },
+                { "src": "/Facilities/poolWITHplayer.jpg", "alt": "Table Tennis", "aiHint": "table tennis" },
+                { "src": "/Facilities/sports1.jpg", "alt": "Badminton Court", "aiHint": "badminton court indoor" }
+            ]
+        },
+        {
+            "id": "reading-room",
+            "name": "Reading Room",
+            "description": "A silent, air-conditioned space perfect for focused study. The reading room is open 24/7 and provides a conducive environment for academic pursuits.",
+            "images": [
+                { "src": "/Facilities/ReadingRoomStudents.jpg", "alt": "Reading Area", "aiHint": "library study area" },
+                { "src": "/Facilities/reading room.jpg", "alt": "Bookshelves", "aiHint": "library bookshelves" },
+                { "src": "https://placehold.co/400x300.png", "alt": "Quiet Corner", "aiHint": "quiet study corner" }
+            ]
+        },
+        {
+            "id": "guest-room",
+            "name": "Guest Accomodation",
+            "description": "Comfortable and well-maintained guest rooms are available for parents and visitors. Booking can be done in advance through the hall office.",
+            "images": [
+                { "src": "https://placehold.co/400x300.png", "alt": "Guest Room Interior", "aiHint": "hotel room interior" },
+                { "src": "https://placehold.co/400x300.png", "alt": "Guest Room Bed", "aiHint": "comfortable bed" },
+                { "src": "https://placehold.co/400x300.png", "alt": "Attached Washroom", "aiHint": "modern bathroom" }
+            ]
+        },
+        {
+            "id": "common-room",
+            "name": "Common Rooms",
+            "description": "Our versatile common room is equipped with a large screen for movie nights and events, along with ample seating. We also have dedicated study rooms for group discussions.",
+            "images": [
+                { "src": "/Facilities/DanceRoom.jpg", "alt": "Common Room Seating", "aiHint": "lounge seating area" },
+                { "src": "/Facilities/conference room.jpg", "alt": "TV Area", "aiHint": "large screen tv" },
+                { "src": "/Facilities/f3CommonRoom.jpg", "alt": "Study Group", "aiHint": "students study group" }
+            ]
+        }
+    ]
+}

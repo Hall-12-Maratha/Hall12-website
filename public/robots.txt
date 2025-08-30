@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hall12iitk.in/sitemap.xml
+
+# Crawl delay (optional - adjust as needed)
+Crawl-delay: 1 

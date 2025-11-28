@@ -38,10 +38,10 @@ export function MissionAnthem() {
             </div>
             <p className="text-foreground/80 leading-relaxed">
               {mission.content}
-            </p>
+            {/* </p>
             <Link href={mission.link.href} className="text-primary hover:underline font-semibold inline-flex items-center group">
               {mission.link.text}
-            </Link>
+            </Link> */}
           </div>
 
           <div className="relative aspect-video rounded-lg overflow-hidden shadow-2xl animate-fade-in-up" style={{ animationDelay: "250ms" }}>

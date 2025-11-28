@@ -31,7 +31,7 @@ export function HallExecutiveCommittee() {
                <ShieldIcon className="absolute -top-4 -left-4 w-20 h-20 text-accent/10 group-hover:text-accent/20 transition-colors" />
               <CardContent className="flex flex-col items-center relative z-10 p-6">
                 <div className="relative w-32 h-32 rounded-full overflow-hidden mb-4 ring-2 ring-primary/50 group-hover:ring-accent transition-all group-hover:animate-glow-gold">
-                    <Image src={person.imageUrl} alt={person.name} width={400} height={400} className="object-cover" data-ai-hint={person.aiHint} />
+                  <Image src={person.imageUrl || '/logo.jpeg'} alt={person.name} width={400} height={400} className="object-cover" data-ai-hint={person.aiHint} />
                 </div>
                 <h3 className="text-xl font-bold text-white">{person.name}</h3>
                 <p className="text-primary font-semibold">{person.role}</p>

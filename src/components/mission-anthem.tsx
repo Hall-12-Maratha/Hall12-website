@@ -39,9 +39,9 @@ export function MissionAnthem() {
             <p className="text-foreground/80 leading-relaxed">
               {mission.content}
             </p>
-           {/*  <Link href={mission.link.href} className="text-primary hover:underline font-semibold inline-flex items-center group">
+           <Link href={mission.link.href} className="text-primary hover:underline font-semibold inline-flex items-center group">
               {mission.link.text}
-            </Link> */}
+            </Link> 
           </div>
 
           <div className="relative aspect-video rounded-lg overflow-hidden shadow-2xl animate-fade-in-up" style={{ animationDelay: "250ms" }}>
@@ -66,10 +66,10 @@ export function MissionAnthem() {
                   {anthem.lyrics.map((line, index) => <p key={index}>{line}</p>)}
               </div>
               <div className="flex justify-between items-center mt-6">
-                <Link href={anthem.legacyLink.href} className="text-accent hover:underline font-semibold inline-flex items-center group">
+                {/* <Link href={anthem.legacyLink.href} className="text-accent hover:underline font-semibold inline-flex items-center group">
                     {anthem.legacyLink.text}
                     <ChevronRight className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" />
-                </Link>
+                </Link> */}
                 <Button variant="ghost" size="icon" className="text-primary hover:text-primary/80" onClick={handlePlayAudio}>
                     {isPlaying ? (
                         <PauseCircle className="w-8 h-8"/>

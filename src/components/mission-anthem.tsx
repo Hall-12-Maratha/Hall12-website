@@ -38,8 +38,8 @@ export function MissionAnthem() {
             </div>
             <p className="text-foreground/80 leading-relaxed">
               {mission.content}
-            {/* </p>
-            <Link href={mission.link.href} className="text-primary hover:underline font-semibold inline-flex items-center group">
+            </p>
+           {/*  <Link href={mission.link.href} className="text-primary hover:underline font-semibold inline-flex items-center group">
               {mission.link.text}
             </Link> */}
           </div>

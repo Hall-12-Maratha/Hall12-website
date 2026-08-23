@@ -1,4 +1,3 @@
-
 {
   "hero": {
     "title": "Contact Us",
@@ -14,65 +13,257 @@
       "icon": "Building",
       "title": "Hostel Office",
       "details": [
-        { "label": "Dr. P.C. Mondal", "value": "Warden-in-Charge" },
-        { "label": "Phone", "value": "+91-8697389517", "href": "tel:+918697389517", "className": "text-primary hover:text-accent" },
-        { "label": "Email", "value": "pcmondal@iitk.ac.in", "href": "mailto:pcmondal@iitk.ac.in", "className": "text-accent hover:text-primary" },
-      
-        { "label": "Dr. Chaitanya Kumar Rao", "value": "Warden" },
-        { "label": "Phone", "value": "+91-9490104441", "href": "tel:+919490104441", "className": "text-primary hover:text-accent" },
-        { "label": "Email", "value": "chaitanya@iitk.ac.in", "href": "mailto:chaitanya@iitk.ac.in", "className": "text-accent hover:text-primary" },
-      
-        { "label": "Dr. Arnab Ghosh", "value": "Warden" },
-        { "label": "Phone", "value": "+91-9163518428", "href": "tel:+919163518428", "className": "text-primary hover:text-accent" },
-        { "label": "Email", "value": "arnab@iitk.ac.in", "href": "mailto:arnab@iitk.ac.in", "className": "text-accent hover:text-primary" }
+        {
+          "label": "Dr. Prakash Chandra Mondal",
+          "value": "Warden-in-Charge"
+        },
+        {
+          "label": "Phone",
+          "value": "+91-8697389517",
+          "href": "tel:+918697389517",
+          "className": "text-primary hover:text-accent"
+        },
+        {
+          "label": "Email",
+          "value": "pcmondal@iitk.ac.in",
+          "href": "mailto:pcmondal@iitk.ac.in",
+          "className": "text-accent hover:text-primary"
+        },
+        {
+          "label": "Dr. Hemant Gehlot",
+          "value": "Maintenance Warden"
+        },
+        {
+          "label": "Phone",
+          "value": "+91-7737675109",
+          "href": "tel:+917737675109",
+          "className": "text-primary hover:text-accent"
+        },
+        {
+          "label": "Email",
+          "value": "hemantg@iitk.ac.in",
+          "href": "mailto:hemantg@iitk.ac.in",
+          "className": "text-accent hover:text-primary"
+        },
+        {
+          "label": "Dr. Jitender Kumar",
+          "value": "Mess Warden"
+        },
+        {
+          "label": "Phone",
+          "value": "+91-8755022740",
+          "href": "tel:+918755022740",
+          "className": "text-primary hover:text-accent"
+        },
+        {
+          "label": "Email",
+          "value": "krjiten@iitk.ac.in",
+          "href": "mailto:krjiten@iitk.ac.in",
+          "className": "text-accent hover:text-primary"
+        }
       ]
     },
     {
       "icon": "Users",
       "title": "Hall Executive Committee",
       "details": [
-        { "label": "Rohit Yadav", "value": "President" },
-        { "label": "Phone", "value": "+91-9660942655", "href": "tel:+919660942655", "className": "text-primary hover:text-accent" },
-        { "label": "Email", "value": "rohitya@.iitk.ac.in", "href": "mailto:warden@hall12.iitk.ac.in", "className": "text-accent hover:text-primary" },
-        { "label": "Hanny Sheoran", "value": "Maintenance secy" },
-        { "label": "Phone", "value": "+91-9560732100", "href": "tel:+919560732100", "className": "text-primary hover:text-accent" },
-        { "label": "Email", "value": "hanny23@iitk.ac.in", "href": "mailto:hanny23@iitk.ac.in", "className": "text-accent hover:text-primary" },
-      
-        { "label": "Parv Mehta", "value": "Maintenance secy" },
-        { "label": "Phone", "value": "+91-9871940500", "href": "tel:+919871940500", "className": "text-primary hover:text-accent" },
-        { "label": "Email", "value": "parvmehta23@iitk.ac.in", "href": "mailto:parvmehta23@iitk.ac.in", "className": "text-accent hover:text-primary" }
-      
+        {
+          "label": "Mudit Srivastava",
+          "value": "President"
+        },
+        {
+          "label": "Phone",
+          "value": "+91-9555834880",
+          "href": "tel:+919555834880",
+          "className": "text-primary hover:text-accent"
+        },
+        {
+          "label": "Email",
+          "value": "mudits24@iitk.ac.in",
+          "href": "mailto:mudits24@iitk.ac.in",
+          "className": "text-accent hover:text-primary"
+        },
+        {
+          "label": "Utkarsh Aman",
+          "value": "Mess & Canteen Secretary"
+        },
+        {
+          "label": "Phone",
+          "value": "+91-8229021811",
+          "href": "tel:+918229021811",
+          "className": "text-primary hover:text-accent"
+        },
+        {
+          "label": "Email",
+          "value": "utkarsh24@iitk.ac.in",
+          "href": "mailto:utkarsh24@iitk.ac.in",
+          "className": "text-accent hover:text-primary"
+        },
+        {
+          "label": "Dwij Sukhadiya",
+          "value": "Mess & Canteen Secretary"
+        },
+        {
+          "label": "Phone",
+          "value": "+91-9825901535",
+          "href": "tel:+919825901535",
+          "className": "text-primary hover:text-accent"
+        },
+        {
+          "label": "Email",
+          "value": "dwijmanish24@iitk.ac.in",
+          "href": "mailto:dwijmanish24@iitk.ac.in",
+          "className": "text-accent hover:text-primary"
+        },
+        {
+          "label": "Arnab Patra",
+          "value": "Maintenance Secretary"
+        },
+        {
+          "label": "Phone",
+          "value": "+91-9477600604",
+          "href": "tel:+919477600604",
+          "className": "text-primary hover:text-accent"
+        },
+        {
+          "label": "Email",
+          "value": "arnabt24@iitk.ac.in",
+          "href": "mailto:arnabt24@iitk.ac.in",
+          "className": "text-accent hover:text-primary"
+        },
+        {
+          "label": "Ranjan Ojha",
+          "value": "Maintenance Secretary"
+        },
+        {
+          "label": "Phone",
+          "value": "+91-7751852848",
+          "href": "tel:+917751852848",
+          "className": "text-primary hover:text-accent"
+        },
+        {
+          "label": "Email",
+          "value": "hall12@iitk.ac.in",
+          "href": "mailto:hall12@iitk.ac.in",
+          "className": "text-accent hover:text-primary"
+        }
       ]
     },
     {
       "icon": "ShieldAlert",
       "title": "Emergency Contacts",
       "details": [
-        { "label": "Pradeep Kumar (Lift Operator)", "value": "+91-981034960", "className": "text-white" },
-        { "label": "Satendra (Lift Operator)", "value": "+91-9910670609", "className": "text-white" },
-        { "label": "Amit Gupta (Lift Operator)", "value": "+91-9912604012", "className": "text-white" },
-        { "label": "Santosh (Lift Operator)", "value": "+91-6392024517", "className": "text-white" },
-        { "label": "Sub-station No-10 (Near Faculty Apartment)", "value": "4657", "className": "text-white" },
-        { "label": "Faculty Building (Lift Room)", "value": "4648", "className": "text-white" },
-        { "label": "Hall-12 (Lift Room)", "value": "4834", "className": "text-white" },
-        { "label": "Security Control Room", "value": "7999", "className": "text-white" },
-        { "label": "In-charge Lift - 7124", "value": "EE (E)-7715", "className": "text-white" },      
-        { "label": "Institute Emergency Services", "value": "Visit Page", "href": "https://www.iitk.ac.in/new/emergency-services", "className": "text-accent hover:text-primary" }
+        {
+          "label": "Pradeep Kumar (Lift Operator)",
+          "value": "+91-981034960",
+          "className": "text-white"
+        },
+        {
+          "label": "Satendra (Lift Operator)",
+          "value": "+91-9910670609",
+          "className": "text-white"
+        },
+        {
+          "label": "Amit Gupta (Lift Operator)",
+          "value": "+91-9912604012",
+          "className": "text-white"
+        },
+        {
+          "label": "Santosh (Lift Operator)",
+          "value": "+91-6392024517",
+          "className": "text-white"
+        },
+        {
+          "label": "Sub-station No-10 (Near Faculty Apartment)",
+          "value": "4657",
+          "className": "text-white"
+        },
+        {
+          "label": "Faculty Building (Lift Room)",
+          "value": "4648",
+          "className": "text-white"
+        },
+        {
+          "label": "Hall-12 (Lift Room)",
+          "value": "4834",
+          "className": "text-white"
+        },
+        {
+          "label": "Security Control Room",
+          "value": "7999",
+          "className": "text-white"
+        },
+        {
+          "label": "In-charge Lift - 7124",
+          "value": "EE (E)-7715",
+          "className": "text-white"
+        },
+        {
+          "label": "Institute Emergency Services",
+          "value": "Visit Page",
+          "href": "https://www.iitk.ac.in/new/emergency-services",
+          "className": "text-accent hover:text-primary"
+        }
       ]
     }
   ],
   "antiRaggingCommittee": {
     "title": "Anti-Ragging Committee",
     "contacts": [
-      { "role": "Warden-in-Charge", "name": "Dr. P.C. Mondal", "phone": "+91-8697389517", "email": "pcmondal@iitk.ac.in" },
-      { "role": "Warden", "name": "Dr. Chaitanya Kumar Rao", "phone": "+91-9490104441", "email": "chaitanya@iitk.ac.in" },
-      { "role": "Warden", "name": "Dr. Arnab Ghosh", "phone": "+91-9163518428", "email": "arnab@iitk.ac.in" },
-      { "role": "President", "name": "Rohit Yadav", "phone": "+91-9660942655", "email": "rohitya23@iitk.ac.in" },
-      { "role": "Mess secy", "name": "Aryan raj", "phone": "+91-7808051615", "email": "aryanraj23@iitk.ac.in" },
-      { "role": "Mess secy", "name": "Kulshreshth Chikara", "phone": "+91-9810216603", "email": "kulshresth23@.iitk.ac.in" },
-      { "role": "Maintenance secy", "name": "Hanny Sheoran", "phone": "+91-9560732100", "email": "hanny23@.iitk.ac.in" },
-      { "role": "Maintenance secy", "name": "Parv Mehta", "phone": "+91-9871940500", "email": "parvmehta23@.iitk.ac.in" },
-      { "role": "ICS", "name": "Mohit Choudhary", "phone": "+91-7976057189", "email": "mohitc23@.iitk.ac.in" }
+      {
+        "role": "Warden-in-Charge",
+        "name": "Dr. Prakash Chandra Mondal",
+        "phone": "+91-8697389517",
+        "email": "pcmondal@iitk.ac.in"
+      },
+      {
+        "role": "Maintenance Warden",
+        "name": "Dr. Hemant Gehlot",
+        "phone": "+91-7737675109",
+        "email": "hemantg@iitk.ac.in"
+      },
+      {
+        "role": "Mess Warden",
+        "name": "Dr. Jitender Kumar",
+        "phone": "+91-8755022740",
+        "email": "krjiten@iitk.ac.in"
+      },
+      {
+        "role": "President",
+        "name": "Mudit Srivastava",
+        "phone": "+91-9555834880",
+        "email": "mudits24@iitk.ac.in"
+      },
+      {
+        "role": "Mess & Canteen Secretary",
+        "name": "Utkarsh Aman",
+        "phone": "+91-8229021811",
+        "email": "utkarsh24@iitk.ac.in"
+      },
+      {
+        "role": "Mess & Canteen Secretary",
+        "name": "Dwij Sukhadiya",
+        "phone": "+91-9825901535",
+        "email": "dwijmanish24@iitk.ac.in"
+      },
+      {
+        "role": "Maintenance Secretary",
+        "name": "Arnab Patra",
+        "phone": "+91-9477600604",
+        "email": "arnabt24@iitk.ac.in"
+      },
+      {
+        "role": "Maintenance Secretary",
+        "name": "Ranjan Ojha",
+        "phone": "+91-7751852848",
+        "email": "hall12@iitk.ac.in"
+      },
+      {
+        "role": "CMHW",
+        "name": "Nisarg Parashar",
+        "phone": "+91-7415571948",
+        "email": "hall12@iitk.ac.in"
+      }
     ]
   },
   "map": {

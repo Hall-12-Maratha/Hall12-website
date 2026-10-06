@@ -40,14 +40,18 @@ export function HallExecutiveCommittee() {
                     <Phone className="w-4 h-4" />
                     <span>{person.phone}</span>
                   </a>
-                  <a href={`mailto:${person.email}`} className="flex items-center gap-2 text-white/70 hover:text-primary transition-colors justify-center">
-                    <Mail className="w-4 h-4" />
-                    <span>{person.email}</span>
-                  </a>
-                  <Link href={person.instagram} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-white/70 hover:text-primary transition-colors justify-center">
-                    <Instagram className="w-4 h-4" />
-                    <span>Instagram</span>
-                  </Link>
+                  {person.email && (
+                    <a href={`mailto:${person.email}`} className="flex items-center gap-2 text-white/70 hover:text-primary transition-colors justify-center">
+                      <Mail className="w-4 h-4" />
+                      <span>{person.email}</span>
+                    </a>
+                  )}
+                  {person.instagram && person.instagram !== "#" && (
+                    <Link href={person.instagram} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-white/70 hover:text-primary transition-colors justify-center">
+                      <Instagram className="w-4 h-4" />
+                      <span>Instagram</span>
+                    </Link>
+                  )}
                 </div>
               </CardContent>
             </Card>

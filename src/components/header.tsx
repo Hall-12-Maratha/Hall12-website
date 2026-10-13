@@ -123,7 +123,7 @@ export function Header() {
               <nav className="flex flex-col gap-6 pt-16 text-xl items-center">
                 {navItems}
                 <Button asChild variant="outline" className="rounded-full bg-white text-black hover:bg-primary hover:text-white border-none mt-4">
-                    <Link href="https://hmp.hall12iitk.in/" target="_blank" rel="noopener noreferrer">HMP Portal</Link>
+                    <Link href="https://mess.hall12iitk.in/" target="_blank" rel="noopener noreferrer">HMP Portal</Link>
                 </Button>
               </nav>
             </SheetContent>
